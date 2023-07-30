@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">huila</string>
+    <string name="Login">Login</string>
+    <string name="Sing_up">Sing up</string>
+    <string name="User_name"></string>
+    <string name="User_password"></string>
+    <string name="email">Email</string>
+    <string name="possword">Parola</string>
+    <string name="information">Termeni si conditi</string>
+
+</resources>
